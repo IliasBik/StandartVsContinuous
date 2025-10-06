@@ -85,7 +85,7 @@ The continuous exchange eliminates the **discreteness** that high-frequency trad
 
 > Albert S. Kyle, Jeongmin Lee (2017)  
 > *Toward a Fully Continuous Exchange*  
-> [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2920460](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2920460)
+> [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2920460]
 
 ---
 
